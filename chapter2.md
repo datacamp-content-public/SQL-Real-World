@@ -1,3 +1,3 @@
 ---
-  title: "Hard Selects"
+  title: "Complex base SELECTs"
 

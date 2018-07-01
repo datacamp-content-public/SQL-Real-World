@@ -1,5 +1,5 @@
 ---
-  title: "Simple Selects"
+  title: "Simple base SELECTs"
   description: "Here you will be introduced into some simple and basic selects from real-world requirements."
   v2: true
 

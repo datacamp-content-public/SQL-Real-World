@@ -1,4 +1,4 @@
 title: SQL practice from the real-worl
-description: In this course you can practice on real-world problem as a data analyst. Like how to produce KPIs, how can you help to the leaders in business decisions, how can you the data quality when you reach a new data base or data mart.
+description: In this course you can practice on real-world problem as a data analyst. Like how to produce KPIs, how can you help to the leaders in business decisions, how can you the data quality when you reach a new data base or data mart. In the first two chapter you will be faced some base selects where we will practise the base statements. In the third chapter in every exercise you will get a simple data table and a KPI request (like when your boss say to you Hej can you help me and produce a list of...?"
 programming_language: sql
 from: 'postgresql-base-prod:22' # 'msft-sql-base-prod:40'
